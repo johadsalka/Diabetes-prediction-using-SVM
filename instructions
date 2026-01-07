@@ -1,0 +1,8 @@
+- Title - Diabetes detection using machine learning.
+steps included -
+1. Diabetes data
+2. Pre Processing data
+3. Train Test Split
+4. Support Vector Machine Classifier
+- Output - After feeding new data into the SVM it will be able to predict whether a person has Diabetes or does not have it.
+- Dataset - PIMA data set information about blood-sugar, glucose level, insulin, age, etc. And the last column shows if the person has diabetes or not. And also the data set contains 768 entries.
